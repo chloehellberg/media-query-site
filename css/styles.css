@@ -5,12 +5,6 @@
   }
 }
 
-@media screen and (max-width: 550px) {
-  body {
-    background-color: teal;
-  }
-}
-
 @media screen and (min-width: 768px) {
   .column {
     width: 300px;
@@ -19,14 +13,8 @@
   }
 }
 
-@media screen and (max-width: 768px) and (min-width: 600px) {
-  body {
-    background-color: black;
-    color: white;
-  }
-}
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 550px) {
   body {
     background-color: teal;
   }
